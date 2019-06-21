@@ -1,0 +1,30 @@
+{
+  "name": "kpl-cli",
+  "version": "1.0.0",
+  "description": "快陪练前端脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syc666/kpl-cli.git"
+  },
+  "keywords": [
+    "342401"
+  ],
+  "author": "sunych",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syc666/kpl-cli/issues"
+  },
+  "homepage": "https://github.com/syc666/kpl-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0",
+    "inquirer": "^6.4.0",
+    "ora": "^3.4.0",
+    "request": "^2.88.0"
+  }
+}
